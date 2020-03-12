@@ -1,5 +1,5 @@
-./raw_data/
-./in_progress/
-./linkedin_dashboard/
-./__pycache__/
+./raw_data/*
+./in_progress/*
+./linkedin_dashboard/*
+./__pycache__/*
 code-image.jpg
